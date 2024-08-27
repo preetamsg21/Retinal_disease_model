@@ -24,7 +24,7 @@ Results
 TThe model achieved an accuracy of 100% on both the test and evaluation datasets. However, please note that this model is still in preparation, and testing accuracy may differ as further optimizations and evaluations are conducted.
 
 The training history can be visualized to analyze the performance over epochs.
-
+<img width="438" alt="accuracy_loss_plot" src="https://github.com/user-attachments/assets/beddc1a9-50e6-43e9-a62d-cd731bed4e7b">
 
 Training History
 
